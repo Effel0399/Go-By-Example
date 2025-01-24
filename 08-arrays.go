@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main08() {
 	var a [5]int // the array will hold 5 ints
 	fmt.Println("emp:", a)
 
