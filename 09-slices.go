@@ -5,7 +5,7 @@ import (
 	"slices"
 )
 
-func main() {
+func main09() {
 
 	var s []string // unitialized slice has 0 length and equal to nil
 	fmt.Println("uninit:", s, s == nil, len(s) == 0)
