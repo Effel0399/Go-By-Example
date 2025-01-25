@@ -9,7 +9,7 @@ func vals() (int, int) { // the function returns 2 ints.
 	return 3, 70
 }
 
-func main() {
+func main12() {
 	a, b := vals()
 	fmt.Println(a) // return 1 value
 	fmt.Println(b)
