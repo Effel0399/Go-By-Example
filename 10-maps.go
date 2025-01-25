@@ -8,7 +8,7 @@ import (
 // Maps are Go’s built-in associative data type
 // (sometimes called hashes or dicts in other languages).
 
-func main() {
+func main10() {
 	m := make(map[string]int) // create empty map "make(map[key-type]val-type)"
 
 	m["k1"] = 7 // set key/value pairs with "name[key] = value"
