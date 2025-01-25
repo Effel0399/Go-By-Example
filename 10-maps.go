@@ -5,6 +5,9 @@ import (
 	"maps"
 )
 
+// Maps are Go’s built-in associative data type
+// (sometimes called hashes or dicts in other languages).
+
 func main() {
 	m := make(map[string]int) // create empty map "make(map[key-type]val-type)"
 
